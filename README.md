@@ -1,4 +1,4 @@
-👋 Olá, sou @AlefSouzaDev
+👋 Olá, sou Alef Souza
 
 - 👀 Estou interessado em me desenvolver em programação Front-end e Back-end
 - 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, React e Python
